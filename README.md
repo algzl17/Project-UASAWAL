@@ -3,7 +3,7 @@
 
 ## Tampilan Awal
 
-![1](https://github.com/algzl17/Project-UAS/blob/master/Screenshot/1.png)
+![1](https://github.com/algzl17/Project-UASAWAL/blob/master/Screenshot/1.png)
 
 ## Tampilan Source Code dan Database
 - Source Code
