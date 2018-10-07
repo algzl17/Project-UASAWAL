@@ -14,7 +14,7 @@
 ## Tampilan Running Program
 
 1. Tampilan Data-Data Mahasiswa
-![2](https://github.com/algzl17/Project-UAS/blob/master/Screenshot/3.png) <br>
+![2](https://raw.githubusercontent.com/algzl17/Project-UASAWAL/master/Screenshot/3.png) <br>
 2. Tampilan Ketika Input Data Mahasiswa
 ![3](https://github.com/algzl17/Project-UAS/blob/master/Screenshot/4.png)<br>
 3. Tampilan Ketika Edit Data Mahasiswa
